@@ -1,7 +1,8 @@
 {
-    "name" : "text",
-    "symbol" : "text",
-    "description" : "This is a token for next generation of blockchain technology.",
+    "name": "SATHWIK",
+  "symbol": "SAT",
+  "decimals": 9,
+  "description": "...",
     "image" : "https://raw.githubusercontent.com/Sathwik041/Token_Metadata/main/im.jpg"
     
 }
