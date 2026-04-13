@@ -1,8 +1,17 @@
 {
-    "name": "SATHWIK",
-  "symbol": "SAT",
-  "decimals": 9,
-  "description": "...",
-    "image" : "https://raw.githubusercontent.com/Sathwik041/Token_Metadata/main/im.png"
-    
+  "name": "SAT NFT FINAL",
+  "description": "NFT by Sathwik Annaldesh",
+  "image": "ipfs://bafybeif7bfze3v72z3dmyl6gjhoi46zvoxqcaiqtc44iitkf32ikredkwu",
+  "image_url": "https://magenta-hilarious-hedgehog-606.mypinata.cloud/ipfs/bafybeif7bfze3v72z3dmyl6gjhoi46zvoxqcaiqtc44iitkf32ikredkwu",
+  "external_url": "https://magenta-hilarious-hedgehog-606.mypinata.cloud/ipfs/bafybeif7bfze3v72z3dmyl6gjhoi46zvoxqcaiqtc44iitkf32ikredkwu",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Sathwik Annaldesh"
+    },
+    {
+      "trait_type": "Goal",
+      "value": "To build a reliable solution using blockchain technology"
+    }
+  ]
 }
