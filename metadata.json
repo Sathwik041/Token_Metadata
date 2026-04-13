@@ -1,9 +1,7 @@
 {
   "name": "SAT NFT FINAL",
   "description": "NFT by Sathwik Annaldesh",
-  "image": "ipfs://bafybeif7bfze3v72z3dmyl6gjhoi46zvoxqcaiqtc44iitkf32ikredkwu",
-  "image_url": "https://magenta-hilarious-hedgehog-606.mypinata.cloud/ipfs/bafybeif7bfze3v72z3dmyl6gjhoi46zvoxqcaiqtc44iitkf32ikredkwu",
-  "external_url": "https://magenta-hilarious-hedgehog-606.mypinata.cloud/ipfs/bafybeif7bfze3v72z3dmyl6gjhoi46zvoxqcaiqtc44iitkf32ikredkwu",
+  "image": "https://raw.githubusercontent.com/Sathwik041/Token_Metadata/69f8437ce29f8140ad898d8c4422efac7b062f57/Futuristic%20blockchain%20cube%20in%20neon%20glow.png",
   "attributes": [
     {
       "trait_type": "Name",
